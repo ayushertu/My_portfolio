@@ -1,0 +1,801 @@
+"customer_id","full_name","city","order_count"
+65,"Segun Asante","Lagos",22
+623,"Ayodeji Okafor","Jos",22
+164,"Chidinma Bello","Jos",21
+297,"Segun Nwofor","Kaduna",21
+799,"Oluchi Abubakar","Suleja",19
+699,"Stella Nweze","Lagos",18
+548,"Ngozi Nwosu","Kano",18
+269,"Modupe Okpara","Jos",18
+152,"Ramatu Onuoha","Enugu",18
+292,"Nnamdi Adeyemi","Maiduguri",17
+340,"Iniobong Nweze","Zaria",17
+67,"Seun Suleiman","Suleja",17
+522,"Richard Nweze","Gombe",16
+277,"Bisi Okonkwo","Gombe",16
+561,"Lola Okoro","Lagos",16
+508,"Sani Yakubu","Abuja",16
+497,"Bassey Bello","Lagos",15
+231,"Ikechukwu Musa","Lagos",15
+590,"Olabisi Sowemimo","Aba",15
+649,"Adewale Akindele","Oshogbo",14
+381,"Bashir Onyekachi","Benin City",14
+151,"Modupe Falola","Uyo",13
+458,"Isioma Nweze","Kaduna",13
+299,"Sunday Oduya","Calabar",13
+195,"Lanre Oluwole","Lagos",13
+553,"Jumoke Oluwole","Lagos",13
+745,"Emmanuel Onyia","Abuja",13
+104,"Babatunde Owusu","Port Harcourt",13
+650,"Simisola Abiodun","Lagos",12
+557,"Adaeze Abiodun","Abuja",12
+42,"Ahmed Adebayo","Port Harcourt",12
+110,"Patricia Asamoah","Enugu",12
+406,"Usman Hassan","Port Harcourt",12
+695,"Joshua Magaji","Ibadan",12
+156,"Bilkisu Oduya","Port Harcourt",12
+350,"Zainab Yusuf","Aba",12
+589,"Faith Ibrahim","Kaduna",11
+462,"Mercy Abubakar","Benin City",10
+260,"Omowumi Adeola","Warri",10
+633,"Bassey Muhammad","Ilorin",9
+613,"Kola Idris","Ibadan",8
+655,"Chukwudi Ihejirika","Kaduna",8
+208,"Sola Magaji","Lagos",8
+177,"Hope Okpara","Lagos",8
+356,"Onyinye Yakubu","Ibadan",8
+504,"Oluwakemi Boateng","Ilorin",7
+154,"Gbenga Boateng","Aba",7
+274,"Chinyere Musa","Owerri",7
+276,"Monday Onyia","Lagos",7
+638,"Ayodeji Osita","Minna",7
+647,"Faith Otieno","Ilorin",7
+676,"Adewunmi Shehu","Lagos",7
+317,"Ifeanyi Yakubu","Akure",7
+168,"Temitope Acheampong","Benin City",6
+48,"Sola Adebayo","Abuja",6
+642,"Folake Aderemi","Port Harcourt",6
+230,"Peace Adesanya","Lagos",6
+487,"Tunde Adeyinka","Owerri",6
+502,"Iniobong Alabi","Calabar",6
+236,"Adaeze Ekwueme","Maiduguri",6
+730,"Ramatu Lawal","Enugu",6
+732,"Tobi Magaji","Enugu",6
+373,"Ogechi Muhammad","Port Harcourt",6
+593,"Adaora Muhammad","Abuja",6
+63,"Blessing Okafor","Gombe",6
+713,"Hauwa Onyekachi","Lagos",6
+766,"Kemi Opoku","Abuja",6
+427,"Patricia Tanko","Kano",6
+267,"Rotimi Ugwu","Ado-Ekiti",6
+645,"Hadiza Abubakar","Lagos",5
+478,"Patricia Abubakar","Oshogbo",5
+475,"Favour Adetunji","Abuja",5
+533,"Simisola Adewale","Ilorin",5
+303,"Aisha Adeyinka","Ilorin",5
+698,"Stella Afolabi","Lagos",5
+746,"Chibundo Afolabi","Port Harcourt",5
+436,"Chinedu Amponsah","Kano",5
+592,"Ifeoma Amponsah","Abuja",5
+750,"Precious Asamoah","Abuja",5
+483,"Adaora Ekwueme","Abuja",5
+192,"Amina Eze","Ibadan",5
+683,"Josephine Idris","Port Harcourt",5
+170,"David Magaji","Oshogbo",5
+136,"Emmanuel Nwosu","Kaduna",5
+499,"Ogochukwu Ogbu","Kaduna",5
+288,"Oluchi Okeke","Abuja",5
+353,"Aisha Okonkwo","Ibadan",5
+125,"Babatunde Okonkwo","Akure",5
+673,"Nneka Okpara","Lagos",5
+242,"Adamu Yusuf","Ilorin",5
+363,"Uloma Yusuf","Jos",5
+139,"Modupe Abdullahi","Lagos",4
+656,"Adewale Abubakar","Ibadan",4
+430,"Chukwudi Acheampong","Abuja",4
+128,"Aisha Adeosun","Warri",4
+459,"Yusuf Adeosun","Enugu",4
+306,"Dayo Adesola","Port Harcourt",4
+747,"Chibundo Adesola","Lagos",4
+361,"Seun Adeyemi","Abeokuta",4
+209,"Bilkisu Adeyemi","Ibadan",4
+567,"Agnes Adeyinka","Lagos",4
+737,"Zainab Amaechi","Warri",4
+639,"Charles Asante","Kano",4
+362,"Olabisi Balogun","Kaduna",4
+461,"Peter Eze","Aba",4
+476,"Obiora Garba","Abuja",4
+266,"Yetunde Hassan","Enugu",4
+160,"Hauwa Hassan","Gombe",4
+432,"Michael Idris","Jos",4
+506,"Josephine Lawal","Owerri",4
+296,"Shehu Magaji","Suleja",4
+588,"Shehu Magaji","Lagos",4
+84,"Onyinye Mbah","Kano",4
+658,"Ahmed Musa","Port Harcourt",4
+617,"Musa Nwachukwu","Warri",4
+39,"Lanre Nwachukwu","Port Harcourt",4
+539,"Ifeoma Nweze","Oshogbo",4
+351,"Musa Nwofor","Enugu",4
+594,"Bashir Obi","Gombe",4
+90,"Mercy Ogbu","Ilorin",4
+385,"Nnamdi Okafor","Lagos",4
+763,"Okechukwu Okereke","Aba",4
+219,"Dayo Okoro","Katsina",4
+55,"Uloma Olatunde","Lagos",4
+795,"Dayo Olatunde","Aba",4
+657,"Uche Olatunde","Lagos",4
+563,"Adewunmi Opoku","Abeokuta",4
+308,"Chinyere Orji","Abuja",4
+198,"Ike Orji","Kaduna",4
+313,"Bisi Orji","Kano",4
+319,"Ike Osei","Katsina",4
+30,"Babatunde Osei","Kaduna",4
+102,"Chioma Osita","Enugu",4
+111,"Bassey Owusu","Lagos",4
+581,"Ibrahim Owusu","Lagos",4
+741,"Obiora Rabiu","Lagos",4
+377,"Folake Salisu","Suleja",4
+505,"Prince Shehu","Bauchi",4
+666,"Chinedu Usman","Abuja",4
+758,"Chinyere Abdullahi","Port Harcourt",3
+691,"Ahmed Abdullahi","Abeokuta",3
+130,"Joshua Abiodun","Ibadan",3
+753,"Olabisi Abiodun","Kaduna",3
+212,"Faith Abiodun","Warri",3
+735,"Victor Abioye","Lagos",3
+179,"Chinyere Abioye","Kano",3
+627,"Iniobong Abubakar","Lagos",3
+579,"James Acheampong","Abeokuta",3
+418,"David Adebayo","Minna",3
+446,"Wale Adekunle","Minna",3
+509,"Victor Adekunle","Kaduna",3
+383,"Femi Adekunle","Abuja",3
+511,"Lola Adeniran","Akure",3
+374,"Chinwe Adeniran","Abeokuta",3
+117,"Emmanuel Adeola","Ado-Ekiti",3
+23,"Ngozi Adeola","Lagos",3
+460,"Wale Adeola","Benin City",3
+598,"Emmanuel Aderemi","Jos",3
+742,"Omowumi Adesanya","Port Harcourt",3
+116,"Chinyere Adesola","Lagos",3
+272,"Hauwa Adetunji","Jos",3
+409,"Ebele Adetunji","Ibadan",3
+366,"Ebele Adetunji","Ilorin",3
+423,"Fatima Adeyinka","Kano",3
+44,"Hope Afolabi","Benin City",3
+765,"Oluchi Afolabi","Lagos",3
+382,"Tobi Agu","Aba",3
+235,"Uchenna Akindele","Abuja",3
+166,"Abubakar Akindele","Lagos",3
+556,"David Alabi","Abuja",3
+268,"Temidayo Alabi","Lagos",3
+391,"Olabisi Alabi","Kaduna",3
+310,"Chidinma Aliyu","Ibadan",3
+12,"Kemi Aliyu","Abuja",3
+786,"Adeyinka Aliyu","Akure",3
+513,"Sani Aliyu","Lagos",3
+515,"Bisi Amadi","Kaduna",3
+343,"Nkechi Amaechi","Ado-Ekiti",3
+514,"Patricia Aneke","Aba",3
+682,"Abubakar Asamoah","Ado-Ekiti",3
+785,"Chukwudi Asamoah","Abeokuta",3
+465,"Fatima Asante","Jos",3
+344,"Olabisi Asante","Lagos",3
+733,"Obiora Danladi","Lagos",3
+562,"Chidi Danso","Lagos",3
+218,"Ibrahim Danso","Lagos",3
+725,"Maryam Dike","Lagos",3
+400,"Uche Dike","Lagos",3
+358,"Bilkisu Dim","Jos",3
+605,"Mercy Eze","Abuja",3
+715,"Ogechi Falola","Abuja",3
+468,"Obiora Fashola","Ilorin",3
+45,"Shehu Garba","Enugu",3
+787,"Simisola Ibrahim","Warri",3
+727,"Lanre Ibrahim","Lagos",3
+577,"Kabir Ibrahim","Ibadan",3
+637,"Abimbola Idris","Benin City",3
+523,"Segun Kwarteng","Benin City",3
+679,"Adaeze Lawal","Lagos",3
+756,"Tobi Lawal","Jos",3
+474,"James Lawal","Kano",3
+662,"Gift Magaji","Lagos",3
+770,"Adannaya Magaji","Kano",3
+121,"Prince Martins","Kaduna",3
+503,"Adeyinka Martins","Lagos",3
+619,"Lola Martins","Aba",3
+721,"Seun Mbah","Abuja",3
+616,"David Mensah","Kaduna",3
+320,"Adannaya Nweze","Jos",3
+442,"Zainab Nwofor","Warri",3
+20,"Oluwafemi Nwofor","Yola",3
+738,"Femi Nwosu","Lagos",3
+203,"Uchenna Obiora","Abuja",3
+480,"Richard Obiora","Kano",3
+609,"Jumoke Oduya","Abuja",3
+190,"Hauwa Ogbu","Abuja",3
+112,"Kabir Ogundimu","Ilorin",3
+776,"Lawal Okafor","Enugu",3
+120,"Precious Okeke","Ilorin",3
+482,"Isioma Okeke","Jos",3
+142,"Uche Okereke","Port Harcourt",3
+185,"Kabir Okpara","Benin City",3
+752,"Precious Olatunde","Lagos",3
+162,"Abimbola Oluwole","Minna",3
+438,"Chibundo Onyia","Enugu",3
+574,"Olabisi Onyia","Lagos",3
+279,"Temidayo Orji","Kaduna",3
+149,"Gift Orji","Warri",3
+57,"Bassey Osei","Ibadan",3
+558,"Chinedu Otieno","Lagos",3
+298,"Obinna Otieno","Lagos",3
+246,"Blessing Owusu","Jos",3
+257,"Bassey Salisu","Sokoto",3
+322,"Chukwuemeka Shehu","Warri",3
+255,"Chinedu Suleiman","Kano",3
+283,"Shehu Suleiman","Maiduguri",3
+64,"Kemi Sunmola","Benin City",3
+134,"Yusuf Sunmola","Abuja",3
+161,"Oluwaseun Tanko","Lagos",3
+611,"Abimbola Tanko","Enugu",3
+371,"Ronke Tanko","Katsina",3
+773,"Samuel Ugwu","Uyo",3
+534,"Ogechi Ugwu","Ilorin",3
+5,"Toyin Ugwu","Abuja",3
+293,"Adewale Ugwu","Lagos",3
+158,"Musa Usman","Uyo",3
+19,"Josephine Uzor","Ibadan",3
+196,"Amaka Uzor","Asaba",3
+105,"Chukwudi Abdullahi","Calabar",2
+59,"Emmanuel Abiodun","Lagos",2
+367,"Maryam Abioye","Aba",2
+664,"Adannaya Abioye","Aba",2
+669,"Nnamdi Abubakar","Port Harcourt",2
+479,"Hauwa Acheampong","Ilorin",2
+38,"Adewale Acheampong","Ado-Ekiti",2
+127,"Adeyinka Adebayo","Abuja",2
+135,"Hope Adebayo","Abuja",2
+544,"Ikechukwu Adekunle","Lagos",2
+33,"Onyinye Adekunle","Ibadan",2
+706,"Kola Adeniran","Ilorin",2
+148,"Mercy Adeola","Abuja",2
+455,"Emmanuel Adeola","Warri",2
+325,"Daniel Adeosun","Abuja",2
+183,"Temi Adeosun","Lagos",2
+491,"Adewunmi Adeosun","Benin City",2
+226,"Hope Adepoju","Warri",2
+644,"Kingsley Adepoju","Abeokuta",2
+620,"Adaeze Aderemi","Ibadan",2
+675,"Chukwuemeka Aderemi","Abuja",2
+660,"Peace Adesanya","Benin City",2
+543,"David Adesanya","Ibadan",2
+129,"Chioma Adesanya","Abuja",2
+7,"Precious Adesanya","Lagos",2
+123,"Zainab Adesanya","Port Harcourt",2
+760,"Uloma Adesola","Benin City",2
+624,"Iniobong Adesola","Akure",2
+346,"Peter Adesola","Asaba",2
+61,"Ronke Adesola","Abuja",2
+532,"Kabir Adewale","Kano",2
+632,"Olamide Adewale","Makurdi",2
+89,"Bashir Adewale","Lagos",2
+424,"Emmanuel Adewale","Kaduna",2
+369,"Kabir Adeyemi","Owerri",2
+641,"Kemi Adeyinka","Benin City",2
+108,"Bisi Afolabi","Ibadan",2
+395,"Ibrahim Agu","Ibadan",2
+97,"Aisha Agyemang","Lagos",2
+74,"Isioma Agyemang","Gombe",2
+783,"Ngozi Akindele","Kano",2
+24,"Ogochukwu Akindele","Port Harcourt",2
+559,"Adannaya Akindele","Enugu",2
+498,"Favour Akindele","Lagos",2
+275,"Ogechi Alabi","Sokoto",2
+221,"Olabisi Alabi","Lagos",2
+119,"Temidayo Alabi","Lagos",2
+387,"Hadiza Alabi","Gombe",2
+339,"Temidayo Alabi","Aba",2
+365,"Chioma Aliyu","Calabar",2
+431,"Charles Aliyu","Kaduna",2
+114,"Hauwa Aliyu","Jos",2
+28,"James Amadi","Lagos",2
+677,"Ikechukwu Amadi","Port Harcourt",2
+402,"Nnamdi Amaechi","Port Harcourt",2
+191,"Precious Amponsah","Aba",2
+210,"Modupe Amponsah","Lagos",2
+428,"Adewale Amponsah","Kano",2
+189,"Kemi Asante","Kano",2
+626,"Chukwuemeka Asante","Owerri",2
+591,"Chinedu Asante","Benin City",2
+150,"Oluchi Asante","Lagos",2
+723,"Olamide Balogun","Katsina",2
+441,"Amina Balogun","Kano",2
+585,"Kabir Balogun","Port Harcourt",2
+473,"Precious Bello","Ibadan",2
+648,"Lanre Bello","Lagos",2
+330,"Olamide Bello","Benin City",2
+323,"Segun Bello","Lagos",2
+636,"Chukwudi Chukwu","Port Harcourt",2
+282,"Aisha Chukwu","Abuja",2
+471,"Joshua Chukwu","Minna",2
+728,"Chinwe Chukwu","Abuja",2
+380,"Bassey Chukwu","Abuja",2
+261,"Sola Chukwu","Enugu",2
+86,"Modupe Chukwu","Abuja",2
+232,"Kingsley Danladi","Yola",2
+309,"Daniel Danladi","Lagos",2
+467,"Fatima Danladi","Ibadan",2
+793,"Garba Danso","Ibadan",2
+687,"Bilkisu Danso","Abeokuta",2
+690,"Amina Danso","Ibadan",2
+392,"Temidayo Dike","Lagos",2
+284,"Modupe Dike","Abuja",2
+348,"Aisha Dike","Abuja",2
+200,"Gift Dike","Lagos",2
+342,"Sunday Dim","Lagos",2
+193,"Femi Ekwueme","Enugu",2
+670,"Patricia Ekwueme","Lagos",2
+631,"Sani Ekwueme","Ado-Ekiti",2
+450,"Ngozi Eze","Abeokuta",2
+133,"Peter Falola","Kaduna",2
+800,"Obinna Falola","Lagos",2
+337,"Hadiza Fashola","Abuja",2
+186,"Ibrahim Fashola","Ibadan",2
+109,"Richard Hassan","Minna",2
+173,"Olabisi Hassan","Owerri",2
+10,"Dayo Ibrahim","Abuja",2
+304,"Nneka Ibrahim","Benin City",2
+784,"Kabir Ibrahim","Kano",2
+456,"Ifeanyi Idris","Benin City",2
+485,"James Idris","Sokoto",2
+14,"Ogechi Kwarteng","Uyo",2
+207,"Nnamdi Lawal","Ibadan",2
+228,"Onyinye Magaji","Lagos",2
+259,"Wale Martins","Ilorin",2
+216,"Lawal Martins","Warri",2
+165,"Joshua Mbah","Benin City",2
+163,"Michael Mbah","Abuja",2
+46,"Ifeanyi Mensah","Ibadan",2
+794,"Agnes Muhammad","Ibadan",2
+731,"Segun Musa","Abeokuta",2
+106,"Oluwaseun Musa","Kaduna",2
+95,"Adewunmi Nnaji","Port Harcourt",2
+520,"Dele Nweze","Suleja",2
+486,"Gift Nweze","Aba",2
+570,"Musa Nwofor","Kaduna",2
+492,"Favour Obiora","Abuja",2
+640,"Maryam Obiora","Kano",2
+768,"Omowumi Obiora","Calabar",2
+311,"Ogochukwu Oduya","Uyo",2
+510,"Chinyere Ofor","Kano",2
+35,"Garba Ofor","Lagos",2
+285,"Kemi Ogundimu","Lagos",2
+79,"Prince Okafor","Ado-Ekiti",2
+704,"Adannaya Okafor","Kaduna",2
+80,"Chukwuemeka Okeke","Calabar",2
+93,"Grace Okereke","Lagos",2
+300,"Peace Okpara","Kaduna",2
+53,"Maryam Oladele","Abeokuta",2
+439,"Uloma Oladele","Kano",2
+767,"Samuel Oladele","Benin City",2
+103,"Nkechi Olatunde","Maiduguri",2
+551,"Obiora Olatunde","Warri",2
+155,"Blessing Olatunde","Enugu",2
+772,"Ikechukwu Olatunde","Benin City",2
+401,"Chidinma Olusanya","Ibadan",2
+489,"Nneka Olusanya","Abuja",2
+659,"Funke Oluwole","Maiduguri",2
+692,"Chinwe Onuoha","Lagos",2
+448,"Yusuf Onuoha","Ibadan",2
+566,"Adamu Onyekachi","Ibadan",2
+437,"Oluwakemi Onyekachi","Ibadan",2
+172,"Charles Onyekachi","Kano",2
+56,"Wale Onyekachi","Kaduna",2
+798,"Kemi Onyekachi","Lagos",2
+13,"Usman Onyekachi","Abuja",2
+50,"Rotimi Onyia","Lagos",2
+364,"Adewunmi Onyia","Enugu",2
+167,"Amina Onyia","Abuja",2
+408,"Ifeoma Onyia","Port Harcourt",2
+672,"Joy Onyia","Lagos",2
+582,"Oluwaseun Opoku","Kano",2
+270,"Uchenna Opoku","Port Harcourt",2
+516,"Babatunde Opoku","Lagos",2
+663,"Lanre Opoku","Kano",2
+411,"Peace Orji","Lagos",2
+32,"Jumoke Orji","Asaba",2
+445,"Bisi Orji","Lagos",2
+378,"Chidinma Osita","Benin City",2
+530,"Amina Osita","Kaduna",2
+252,"Patricia Otieno","Ibadan",2
+51,"Shehu Rabiu","Benin City",2
+17,"Olamide Shehu","Port Harcourt",2
+496,"Uchenna Shehu","Gombe",2
+60,"Tobi Sowemimo","Lagos",2
+771,"Chidi Sowemimo","Abuja",2
+302,"Hauwa Sowemimo","Ibadan",2
+774,"Ibrahim Sunmola","Lagos",2
+239,"Obinna Sunmola","Lagos",2
+398,"Aisha Ugwu","Abuja",2
+434,"Ronke Usman","Lagos",2
+572,"Tunde Usman","Abuja",2
+85,"Prince Uzor","Warri",2
+273,"Favour Uzor","Lagos",2
+6,"Monday Abdullahi","Lagos",1
+717,"Patricia Abiodun","Warri",1
+87,"Temi Abiodun","Abuja",1
+234,"Adamu Abiodun","Abuja",1
+175,"Adannaya Abiodun","Lagos",1
+145,"Victor Abiodun","Lagos",1
+205,"Nkechi Abioye","Lagos",1
+386,"Folake Abioye","Yola",1
+694,"Edet Abioye","Abuja",1
+628,"Simisola Abioye","Lagos",1
+684,"Oluwaseun Abubakar","Kaduna",1
+34,"Chidinma Acheampong","Lagos",1
+188,"Hauwa Adekunle","Akure",1
+37,"David Adekunle","Abuja",1
+75,"Onyinye Adeniran","Kano",1
+2,"Tobi Adeniran","Benin City",1
+689,"Uloma Adeola","Abeokuta",1
+716,"Haruna Adeosun","Ilorin",1
+542,"Funke Adeosun","Warri",1
+488,"Amina Adeosun","Sokoto",1
+315,"Temi Adeosun","Kano",1
+457,"Chidi Adepoju","Lagos",1
+564,"Josephine Adepoju","Lagos",1
+546,"Faith Aderemi","Lagos",1
+527,"Bassey Aderemi","Ilorin",1
+201,"Chibundo Adesanya","Lagos",1
+472,"Ike Adesanya","Port Harcourt",1
+407,"Babatunde Adesanya","Port Harcourt",1
+4,"Bashir Adesola","Owerri",1
+573,"Victor Adesola","Ilorin",1
+241,"Ebele Adetunji","Katsina",1
+25,"Ada Adetunji","Abuja",1
+281,"Usman Adetunji","Lagos",1
+81,"Chidinma Adetunji","Kaduna",1
+443,"Simisola Adetunji","Bauchi",1
+379,"Chiamaka Adewale","Lagos",1
+744,"Stella Adeyemi","Benin City",1
+578,"Ibrahim Adeyemi","Akure",1
+525,"Emmanuel Adeyemi","Abuja",1
+147,"Amina Adeyemi","Abuja",1
+41,"Ifeanyi Adeyinka","Akure",1
+415,"Ifeoma Adeyinka","Maiduguri",1
+393,"Kemi Adeyinka","Warri",1
+536,"Ada Adeyinka","Asaba",1
+444,"Temi Adeyinka","Lagos",1
+643,"Kemi Afolabi","Kano",1
+426,"Abimbola Afolabi","Warri",1
+62,"Hauwa Afolabi","Ilorin",1
+144,"Joy Agu","Lagos",1
+552,"Chidi Agu","Lagos",1
+610,"Bayo Agu","Jos",1
+775,"Monday Agyemang","Abuja",1
+665,"Ibrahim Agyemang","Lagos",1
+425,"Nkechi Agyemang","Benin City",1
+521,"Amaka Agyemang","Kaduna",1
+734,"Simisola Akindele","Port Harcourt",1
+341,"Seun Alabi","Aba",1
+651,"Bisi Aliyu","Ibadan",1
+347,"Ifeoma Aliyu","Benin City",1
+571,"Temi Aliyu","Makurdi",1
+286,"Ayodeji Aliyu","Lagos",1
+202,"Richard Aliyu","Makurdi",1
+604,"Ifeanyi Aliyu","Ilorin",1
+700,"Dele Amadi","Ilorin",1
+702,"Musa Amadi","Katsina",1
+549,"Ifeoma Amaechi","Abuja",1
+345,"Patricia Amaechi","Abuja",1
+181,"Dayo Amponsah","Uyo",1
+280,"Ifeoma Aneke","Lagos",1
+169,"Yetunde Aneke","Makurdi",1
+529,"Bilkisu Aneke","Lagos",1
+126,"Bilkisu Aneke","Abuja",1
+233,"Daniel Aneke","Ibadan",1
+724,"Lanre Asamoah","Abuja",1
+199,"Temi Asamoah","Ado-Ekiti",1
+792,"Gbenga Asante","Lagos",1
+178,"Sola Asante","Oshogbo",1
+256,"Temi Asante","Ilorin",1
+646,"Simisola Balogun","Ibadan",1
+791,"Adamu Bello","Abeokuta",1
+615,"Bisi Bello","Jos",1
+601,"Lola Bello","Port Harcourt",1
+417,"Ogechi Boateng","Port Harcourt",1
+73,"Ebele Boateng","Lagos",1
+797,"Daniel Chukwu","Ibadan",1
+243,"Michael Chukwu","Port Harcourt",1
+370,"Kola Chukwu","Port Harcourt",1
+217,"Chidi Danladi","Aba",1
+720,"Funke Danladi","Port Harcourt",1
+517,"Grace Danladi","Enugu",1
+453,"Lawal Danladi","Suleja",1
+324,"Chidinma Danso","Abuja",1
+399,"Ngozi Danso","Ibadan",1
+652,"Blessing Danso","Enugu",1
+416,"Emmanuel Dike","Abeokuta",1
+40,"Stella Dike","Lagos",1
+597,"Ebele Dike","Lagos",1
+263,"Joshua Dike","Lagos",1
+602,"Lanre Dike","Akure",1
+253,"Temi Dim","Maiduguri",1
+757,"Patricia Ekwueme","Minna",1
+352,"Abimbola Eze","Ibadan",1
+329,"Toyin Falola","Suleja",1
+569,"Lola Falola","Owerri",1
+696,"Oluwakemi Falola","Lagos",1
+9,"Obiora Fashola","Kano",1
+287,"Daniel Fashola","Lagos",1
+565,"David Fashola","Lagos",1
+595,"Tobi Garba","Enugu",1
+712,"Temidayo Garba","Ibadan",1
+739,"Abimbola Garba","Yola",1
+248,"Amina Hassan","Lagos",1
+705,"Ngozi Hassan","Maiduguri",1
+8,"Maryam Ibrahim","Port Harcourt",1
+490,"Monday Idris","Port Harcourt",1
+22,"Chukwudi Idris","Enugu",1
+608,"Adaeze Idris","Port Harcourt",1
+413,"Uchenna Idris","Ibadan",1
+779,"Sani Ihejirika","Oshogbo",1
+688,"Adamu Ihejirika","Abuja",1
+736,"Iniobong Ihejirika","Uyo",1
+661,"Bilkisu Ihejirika","Lagos",1
+372,"Nnamdi Ihejirika","Benin City",1
+71,"Zainab Kwarteng","Oshogbo",1
+16,"Onyinye Kwarteng","Abuja",1
+237,"Sani Kwarteng","Minna",1
+463,"Isioma Lawal","Bauchi",1
+612,"David Lawal","Port Harcourt",1
+290,"Aisha Lawal","Ibadan",1
+78,"Gift Lawal","Lagos",1
+83,"Ahmed Magaji","Ibadan",1
+240,"Obiora Magaji","Kano",1
+52,"Dele Magaji","Aba",1
+718,"Nneka Magaji","Kaduna",1
+159,"Onyinye Mbah","Port Harcourt",1
+31,"Adewale Mbah","Abuja",1
+531,"Kingsley Mensah","Warri",1
+101,"Patricia Mensah","Maiduguri",1
+29,"Aisha Mensah","Benin City",1
+560,"Chukwuemeka Muhammad","Ibadan",1
+512,"Nnamdi Muhammad","Abuja",1
+333,"Ike Muhammad","Lagos",1
+334,"Chiamaka Musa","Benin City",1
+547,"Mercy Musa","Abuja",1
+249,"Lola Musa","Kaduna",1
+555,"Chiamaka Nnaji","Suleja",1
+500,"Temitope Nwachukwu","Abeokuta",1
+11,"Garba Nwachukwu","Abuja",1
+788,"Favour Nwachukwu","Gombe",1
+291,"Peter Nwachukwu","Warri",1
+540,"Seun Nwachukwu","Oshogbo",1
+349,"Obinna Nwachukwu","Kano",1
+390,"Emmanuel Nweze","Lagos",1
+493,"Seun Nweze","Calabar",1
+653,"Michael Nweze","Lagos",1
+614,"Chiamaka Nweze","Kano",1
+354,"Daniel Nwofor","Warri",1
+138,"Precious Nwosu","Abuja",1
+278,"Abubakar Obi","Lagos",1
+115,"Joshua Obiora","Lagos",1
+355,"Ngozi Obiora","Lagos",1
+254,"Prince Obiora","Port Harcourt",1
+550,"Tobi Obiora","Ibadan",1
+262,"Bilkisu Ofor","Ibadan",1
+214,"Haruna Ofor","Sokoto",1
+47,"Maryam Ogbu","Port Harcourt",1
+238,"Chiamaka Okafor","Lagos",1
+722,"Aisha Okafor","Calabar",1
+153,"Seun Okeke","Kano",1
+245,"Bassey Okeke","Abuja",1
+709,"Ogochukwu Okeke","Lagos",1
+122,"Oluwakemi Okeke","Aba",1
+182,"Gbenga Okeke","Minna",1
+429,"Joy Okereke","Port Harcourt",1
+518,"Chukwudi Okereke","Warri",1
+294,"Lawal Okonkwo","Benin City",1
+72,"Amaka Okoro","Abuja",1
+301,"Chukwudi Okoro","Ilorin",1
+693,"Hope Okoro","Bauchi",1
+113,"Ike Okoro","Lagos",1
+681,"Chidi Okoro","Warri",1
+754,"Ada Okpara","Lagos",1
+404,"Dele Okpara","Kaduna",1
+332,"Folake Okpara","Gombe",1
+528,"Nnamdi Oladele","Ado-Ekiti",1
+789,"Dayo Oladele","Ilorin",1
+790,"Precious Oladele","Maiduguri",1
+422,"Yusuf Olatunde","Lagos",1
+507,"David Olatunde","Ado-Ekiti",1
+88,"Faith Olatunde","Calabar",1
+710,"Chinwe Olatunde","Lagos",1
+586,"Bassey Olusanya","Lagos",1
+21,"Adamu Oluwole","Suleja",1
+451,"Chioma Onuoha","Calabar",1
+176,"Ike Onuoha","Kano",1
+697,"Yetunde Onuoha","Uyo",1
+762,"Ibrahim Onuoha","Uyo",1
+118,"Bassey Onyekachi","Warri",1
+755,"Folake Onyia","Lagos",1
+295,"Gift Opoku","Kano",1
+171,"Ada Opoku","Kano",1
+58,"Henry Orji","Kano",1
+780,"Sunday Orji","Ibadan",1
+271,"Edet Osei","Lagos",1
+36,"Garba Osei","Kano",1
+140,"Gift Osei","Enugu",1
+580,"Mercy Osita","Lagos",1
+607,"Usman Osita","Zaria",1
+92,"Monday Owusu","Akure",1
+711,"Garba Owusu","Lagos",1
+194,"Okechukwu Owusu","Lagos",1
+618,"Joy Owusu","Akure",1
+91,"Abimbola Rabiu","Lagos",1
+396,"Faith Rabiu","Lagos",1
+454,"Ikechukwu Rabiu","Benin City",1
+678,"Chiamaka Salisu","Abuja",1
+77,"Prince Salisu","Oshogbo",1
+54,"Victor Shehu","Calabar",1
+250,"Mercy Shehu","Lagos",1
+464,"Temidayo Sowemimo","Lagos",1
+132,"Ramatu Suleiman","Abuja",1
+707,"Bassey Suleiman","Lagos",1
+576,"Garba Sunmola","Lagos",1
+394,"Chidi Sunmola","Suleja",1
+587,"Obiora Sunmola","Kano",1
+440,"Abubakar Sunmola","Lagos",1
+174,"Fatima Tanko","Kano",1
+70,"Ibrahim Tanko","Lagos",1
+326,"Wale Ugwu","Abeokuta",1
+740,"Aisha Usman","Lagos",1
+98,"Michael Usman","Benin City",1
+606,"Gbenga Usman","Lagos",1
+265,"Oluwakemi Uzor","Suleja",1
+410,"Yusuf Uzor","Lagos",1
+726,"Samuel Yakubu","Kano",1
+541,"Uche Yusuf","Port Harcourt",1
+328,"Nkechi Yusuf","Owerri",1
+748,"Emeka Abdullahi","Maiduguri",0
+124,"Ogechi Abdullahi","Enugu",0
+314,"James Abiodun","Kano",0
+414,"Nnamdi Abioye","Lagos",0
+247,"Haruna Abubakar","Gombe",0
+501,"Peace Abubakar","Ado-Ekiti",0
+206,"Bayo Abubakar","Lagos",0
+213,"Edet Acheampong","Oshogbo",0
+18,"Nneka Acheampong","Benin City",0
+375,"Yetunde Acheampong","Benin City",0
+229,"Uloma Adekunle","Ibadan",0
+94,"Oluwaseun Adekunle","Benin City",0
+327,"Peter Adekunle","Owerri",0
+680,"Abubakar Adeniran","Abuja",0
+68,"Ronke Adeola","Calabar",0
+222,"Josephine Adeola","Enugu",0
+535,"Bilkisu Adeosun","Port Harcourt",0
+305,"Oluwaseun Adepoju","Ilorin",0
+554,"Jumoke Adesanya","Lagos",0
+545,"Ebele Adetunji","Yola",0
+258,"Tobi Adewale","Abuja",0
+625,"Kola Adewale","Owerri",0
+477,"Abimbola Adewale","Lagos",0
+599,"James Adewale","Abeokuta",0
+630,"Ibrahim Adeyinka","Owerri",0
+714,"Kola Afolabi","Lagos",0
+137,"Blessing Afolabi","Kano",0
+316,"Okechukwu Agu","Abuja",0
+204,"James Agu","Warri",0
+419,"Sunday Agu","Lagos",0
+331,"Ifeoma Agu","Lagos",0
+43,"Bisi Agyemang","Abuja",0
+568,"Prince Akindele","Jos",0
+321,"Uchenna Aliyu","Minna",0
+667,"Ramatu Aliyu","Kano",0
+27,"Adamu Aliyu","Lagos",0
+668,"Bilkisu Amadi","Uyo",0
+686,"Precious Amaechi","Kano",0
+215,"Oluchi Aneke","Abuja",0
+225,"Ogechi Aneke","Kano",0
+635,"Bassey Asamoah","Abeokuta",0
+251,"Richard Asante","Aba",0
+264,"Hadiza Asante","Lagos",0
+778,"Chinwe Asante","Kano",0
+141,"Adamu Balogun","Kano",0
+3,"Amaka Bello","Abuja",0
+99,"Adamu Boateng","Uyo",0
+187,"Oluchi Boateng","Ilorin",0
+143,"Omowumi Chukwu","Aba",0
+96,"Omowumi Danso","Abuja",0
+584,"Zainab Dike","Aba",0
+761,"Haruna Dim","Kano",0
+481,"Isioma Dim","Akure",0
+224,"David Dim","Aba",0
+69,"Stella Dim","Lagos",0
+318,"Obinna Ekwueme","Oshogbo",0
+759,"Kingsley Ekwueme","Makurdi",0
+449,"Simisola Eze","Kaduna",0
+526,"Henry Falola","Ado-Ekiti",0
+469,"Wale Fashola","Lagos",0
+107,"Adaeze Fashola","Port Harcourt",0
+312,"Ramatu Fashola","Port Harcourt",0
+368,"Ayodeji Garba","Ilorin",0
+336,"Emmanuel Garba","Kano",0
+397,"Ayodeji Hassan","Lagos",0
+223,"Dele Hassan","Lagos",0
+197,"Samuel Hassan","Port Harcourt",0
+777,"Adamu Hassan","Lagos",0
+749,"Precious Ibrahim","Enugu",0
+307,"Funke Ibrahim","Lagos",0
+629,"Ibrahim Idris","Asaba",0
+538,"Olamide Kwarteng","Maiduguri",0
+244,"Patricia Kwarteng","Yola",0
+100,"Dayo Magaji","Kano",0
+519,"Simisola Magaji","Port Harcourt",0
+289,"Adaeze Magaji","Ibadan",0
+388,"Bayo Martins","Lagos",0
+76,"Victor Martins","Abuja",0
+357,"Chukwuemeka Mbah","Lagos",0
+405,"Segun Mensah","Kaduna",0
+674,"Bashir Mensah","Lagos",0
+603,"Chidi Mensah","Abuja",0
+622,"Gbenga Mensah","Jos",0
+15,"James Mensah","Zaria",0
+49,"Peter Mensah","Aba",0
+470,"Chukwudi Muhammad","Lagos",0
+452,"Tobi Nwachukwu","Lagos",0
+420,"Dayo Nwachukwu","Lagos",0
+764,"Josephine Nwosu","Lagos",0
+634,"Omowumi Nwosu","Abuja",0
+583,"Richard Nwosu","Abuja",0
+494,"Agnes Obiora","Lagos",0
+719,"Gift Obiora","Abuja",0
+26,"Temidayo Obiora","Kano",0
+389,"Abimbola Oduya","Kano",0
+729,"Ogochukwu Oduya","Ibadan",0
+433,"Ahmed Ofor","Calabar",0
+360,"Oluchi Ogundimu","Kaduna",0
+701,"Joy Okafor","Abuja",0
+782,"Amina Okonkwo","Ilorin",0
+781,"Toyin Okonkwo","Kano",0
+751,"Chinedu Okonkwo","Zaria",0
+403,"Temitope Olatunde","Akure",0
+703,"Prince Olusanya","Ibadan",0
+466,"Adaeze Olusanya","Oshogbo",0
+447,"Nneka Oluwole","Lagos",0
+338,"Ifeoma Oluwole","Jos",0
+180,"Uloma Oluwole","Minna",0
+335,"Prince Onuoha","Maiduguri",0
+796,"Okechukwu Onuoha","Kano",0
+220,"Charles Onuoha","Jos",0
+596,"Chidinma Onyekachi","Gombe",0
+537,"Peace Onyekachi","Abuja",0
+769,"Aisha Onyia","Abuja",0
+600,"Chinyere Onyia","Calabar",0
+685,"Emeka Onyia","Ibadan",0
+376,"Emmanuel Opoku","Abuja",0
+524,"Henry Orji","Port Harcourt",0
+654,"Bassey Orji","Yola",0
+621,"Olamide Orji","Lagos",0
+708,"Temi Osei","Kano",0
+184,"Joy Otieno","Ibadan",0
+82,"Adaora Rabiu","Kano",0
+157,"Adewale Salisu","Kano",0
+359,"Lanre Shehu","Suleja",0
+211,"Joy Shehu","Lagos",0
+484,"Lola Shehu","Kano",0
+743,"Olamide Sowemimo","Lagos",0
+435,"Uche Sowemimo","Enugu",0
+495,"Oluwafemi Sowemimo","Benin City",0
+131,"Josephine Sowemimo","Kano",0
+421,"Kabir Sunmola","Ibadan",0
+1,"Tunde Sunmola","Abuja",0
+412,"Daniel Tanko","Gombe",0
+384,"Lanre Tanko","Abeokuta",0
+671,"Jumoke Tanko","Enugu",0
+227,"Prince Ugwu","Port Harcourt",0
+66,"Ikechukwu Uzor","Lagos",0
+575,"Ikechukwu Yusuf","Gombe",0
+146,"Wale Yusuf","Port Harcourt",0
