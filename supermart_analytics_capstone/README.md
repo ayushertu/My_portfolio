@@ -45,6 +45,7 @@ quantity * unit_price * (1 - discount / 100.0)
 ```
 
 ---
+
 ## Repository Structure
 ```text
 ├── supermart_analytics_results/                              # Previews and sample outputs of query
@@ -55,7 +56,7 @@ quantity * unit_price * (1 - discount / 100.0)
 
 ---
 
-**## 🛠️ Key Analytical Core Components**
+**🛠️ Key Analytical Core Components**
 The codebase is structured to solve intermediate and advanced database reporting challenges:
 
 Fundamentals & Dynamic Aggregations: Basic filtering, geographic groupings, alphanumeric sorting, pattern-matching (LIKE/ILIKE), and localized cohort auditing.
